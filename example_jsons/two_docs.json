@@ -1,0 +1,2664 @@
+{
+  "document0": {
+    "document_path": "database.mpqa.2.0/docs/non_fbis/06.12.31-26764", 
+    "sentence0": {
+      "ds3": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              50, 
+              51, 
+              52, 
+              53, 
+              54, 
+              55
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "Iraq", 
+              ",", 
+              "Iran", 
+              "and", 
+              "North", 
+              "Korea"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "very-uncertain", 
+        "ds_expression_intensity": "neutral", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          36
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "neutral", 
+        "ds_polarity": "none", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "used"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            35
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Bush"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds5": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              50, 
+              51, 
+              52, 
+              53, 
+              54, 
+              55
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "Iraq", 
+              ",", 
+              "Iran", 
+              "and", 
+              "North", 
+              "Korea"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "neutral", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          48, 
+          49
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "neutral", 
+        "ds_polarity": "none", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "to", 
+          "describe"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            35
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Bush"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        3, 
+        5
+      ], 
+      "sentence_tokenized": [
+        "Elaborating", 
+        "on", 
+        "the", 
+        "`", 
+        "axis", 
+        "of", 
+        "evil", 
+        "'", 
+        "PRESIDENT", 
+        "GEORGE", 
+        "Bush", 
+        "'s", 
+        "National", 
+        "Security", 
+        "Adviser", 
+        "Condoleezza", 
+        "Rice", 
+        "has", 
+        "recently", 
+        "``", 
+        "defined", 
+        "''", 
+        "the", 
+        "context", 
+        "and", 
+        "scope", 
+        "of", 
+        "the", 
+        "term", 
+        "``", 
+        "axis", 
+        "of", 
+        "evil", 
+        "''", 
+        "that", 
+        "Bush", 
+        "used", 
+        "in", 
+        "his", 
+        "State", 
+        "of", 
+        "the", 
+        "Union", 
+        "address", 
+        "a", 
+        "few", 
+        "weeks", 
+        "ago", 
+        "to", 
+        "describe", 
+        "Iraq", 
+        ",", 
+        "Iran", 
+        "and", 
+        "North", 
+        "Korea", 
+        "."
+      ]
+    }, 
+    "sentence1": {
+      "ds0": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "arguing-pos", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [], 
+          "targets_indices": [], 
+          "targets_tokenized": [], 
+          "targets_uncertain": []
+        }, 
+        "att1": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              9, 
+              10, 
+              11, 
+              12, 
+              13
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "the", 
+              "three", 
+              "countries", 
+              "in", 
+              "question"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 2, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "arguing-pos", 
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "somewhat-uncertain", 
+        "ds_expression_intensity": "neutral", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          2, 
+          3
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "neutral", 
+        "ds_polarity": "none", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "set", 
+          "by"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            4
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Rice"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        0
+      ], 
+      "sentence_tokenized": [
+        "The", 
+        "criteria", 
+        "set", 
+        "by", 
+        "Rice", 
+        "are", 
+        "the", 
+        "following", 
+        ":", 
+        "the", 
+        "three", 
+        "countries", 
+        "in", 
+        "question", 
+        "are", 
+        "repressive", 
+        "and", 
+        "grave", 
+        "human", 
+        "rights", 
+        "violators", 
+        ",", 
+        "and", 
+        "aggressively", 
+        "seeking", 
+        "weapons", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "."
+      ]
+    }, 
+    "sentence10": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "Come", 
+        "to", 
+        "think", 
+        "of", 
+        "it", 
+        ",", 
+        "acquiring", 
+        "weapons", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "per", 
+        "se", 
+        "may", 
+        "not", 
+        "be", 
+        "a", 
+        "correct", 
+        "basis", 
+        "for", 
+        "judging", 
+        "whether", 
+        "a", 
+        "nation", 
+        "is", 
+        "good", 
+        "or", 
+        "evil", 
+        "."
+      ]
+    }, 
+    "sentence11": {
+      "ds2": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              17, 
+              18
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "a", 
+              "state"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "neutral", 
+        "ds_implicit": true, 
+        "ds_indices": [
+          16
+        ], 
+        "ds_insubstantial": "c2", 
+        "ds_intensity": "neutral", 
+        "ds_polarity": "none", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "label"
+        ], 
+        "holder_ds_overlap": [], 
+        "holders_indices": [], 
+        "holders_tokenized": [], 
+        "holders_uncertain": []
+      }, 
+      "dss_ids": [
+        2
+      ], 
+      "sentence_tokenized": [
+        "The", 
+        "mere", 
+        "development", 
+        "or", 
+        "possession", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "weapons", 
+        "is", 
+        "not", 
+        "in", 
+        "itself", 
+        "a", 
+        "reason", 
+        "to", 
+        "label", 
+        "a", 
+        "state", 
+        "as", 
+        "evildoer", 
+        "."
+      ]
+    }, 
+    "sentence12": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "After", 
+        "all", 
+        ",", 
+        "the", 
+        "US", 
+        "is", 
+        "the", 
+        "first", 
+        "nation", 
+        "to", 
+        "have", 
+        "developed", 
+        "nuclear", 
+        "weapons", 
+        "."
+      ]
+    }, 
+    "sentence13": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "Moreover", 
+        ",", 
+        "the", 
+        "US", 
+        "is", 
+        "the", 
+        "first", 
+        "and", 
+        "only", 
+        "nation", 
+        "ever", 
+        "to", 
+        "deploy", 
+        "such", 
+        "weapons", 
+        "."
+      ]
+    }, 
+    "sentence14": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "Perhaps", 
+        "the", 
+        "real", 
+        "criterion", 
+        "in", 
+        "this", 
+        "context", 
+        "is", 
+        "whether", 
+        "the", 
+        "nuclear", 
+        "country", 
+        "is", 
+        "democratic", 
+        "in", 
+        "every", 
+        "sense", 
+        "of", 
+        "the", 
+        "word", 
+        "."
+      ]
+    }, 
+    "sentence15": {
+      "ds4": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              17, 
+              18, 
+              19, 
+              20, 
+              21, 
+              22, 
+              23, 
+              24, 
+              25, 
+              26, 
+              27, 
+              28
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "when", 
+              "the", 
+              "nations", 
+              "which", 
+              "acquire", 
+              "mass", 
+              "destruction", 
+              "weapons", 
+              "are", 
+              "authoritarian", 
+              "or", 
+              "repressive"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "high", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          4, 
+          5
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "high", 
+        "ds_polarity": "negative", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "particularly", 
+          "disturbed"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            0
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Washington"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds6": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              17, 
+              18, 
+              19, 
+              20, 
+              21, 
+              22, 
+              23, 
+              24, 
+              25, 
+              26, 
+              27, 
+              28
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "when", 
+              "the", 
+              "nations", 
+              "which", 
+              "acquire", 
+              "mass", 
+              "destruction", 
+              "weapons", 
+              "are", 
+              "authoritarian", 
+              "or", 
+              "repressive"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          7
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "negative", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "feel"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            0
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Washington"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        4, 
+        6
+      ], 
+      "sentence_tokenized": [
+        "Washington", 
+        "seems", 
+        "to", 
+        "be", 
+        "particularly", 
+        "disturbed", 
+        "and", 
+        "feel", 
+        "that", 
+        "its", 
+        "own", 
+        "national", 
+        "security", 
+        "is", 
+        "being", 
+        "threatened", 
+        "only", 
+        "when", 
+        "the", 
+        "nations", 
+        "which", 
+        "acquire", 
+        "mass", 
+        "destruction", 
+        "weapons", 
+        "are", 
+        "authoritarian", 
+        "or", 
+        "repressive", 
+        ",", 
+        "irrespective", 
+        "of", 
+        "the", 
+        "pace", 
+        "of", 
+        "amassing", 
+        "weaponry", 
+        "."
+      ]
+    }, 
+    "sentence16": {
+      "ds1": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              0
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "This"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          6, 
+          7
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "negative", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "the", 
+          "fear"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            9, 
+            10
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "all", 
+            "countries"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds7": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "arguing-pos", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              16, 
+              17
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "democratic", 
+              "regimes"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "arguing-pos"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          14
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "feel"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            13
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "they"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        1, 
+        7
+      ], 
+      "sentence_tokenized": [
+        "This", 
+        "is", 
+        ",", 
+        "in", 
+        "fact", 
+        ",", 
+        "the", 
+        "fear", 
+        "of", 
+        "all", 
+        "countries", 
+        ",", 
+        "as", 
+        "they", 
+        "feel", 
+        "that", 
+        "democratic", 
+        "regimes", 
+        "are", 
+        "more", 
+        "restrained", 
+        "and", 
+        "responsible", 
+        "when", 
+        "it", 
+        "comes", 
+        "to", 
+        "resorting", 
+        "to", 
+        "weapons", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "."
+      ]
+    }, 
+    "sentence17": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "If", 
+        "this", 
+        "is", 
+        "the", 
+        "case", 
+        ",", 
+        "Rice", 
+        "could", 
+        "have", 
+        "elaborated", 
+        "more", 
+        "precise", 
+        "criteria", 
+        "for", 
+        "membership", 
+        "in", 
+        "the", 
+        "``", 
+        "axis", 
+        "of", 
+        "evil", 
+        ",", 
+        "''", 
+        "by", 
+        "establishing", 
+        "more", 
+        "clearly", 
+        "the", 
+        "connection", 
+        "between", 
+        "the", 
+        "nature", 
+        "of", 
+        "the", 
+        "regime", 
+        "and", 
+        "the", 
+        "acquisition", 
+        "of", 
+        "weapons", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "."
+      ]
+    }, 
+    "sentence2": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "By", 
+        "all", 
+        "conservative", 
+        "estimates", 
+        ",", 
+        "there", 
+        "are", 
+        "scores", 
+        "of", 
+        "other", 
+        "countries", 
+        "which", 
+        "can", 
+        "easily", 
+        "qualify", 
+        "as", 
+        "repressive", 
+        "and", 
+        "violating", 
+        "human", 
+        "rights", 
+        "."
+      ]
+    }, 
+    "sentence3": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "The", 
+        "rule", 
+        ",", 
+        "as", 
+        "far", 
+        "as", 
+        "human", 
+        "rights", 
+        "are", 
+        "concerned", 
+        ",", 
+        "is", 
+        "that", 
+        "every", 
+        "nation", 
+        "which", 
+        "does", 
+        "not", 
+        "enjoy", 
+        "pluralistic", 
+        "democracy", 
+        "is", 
+        "violating", 
+        "human", 
+        "rights", 
+        "and", 
+        "is", 
+        "therefore", 
+        "oppressive", 
+        "."
+      ]
+    }, 
+    "sentence4": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "There", 
+        "are", 
+        "many", 
+        "countries", 
+        "in", 
+        "the", 
+        "world", 
+        "that", 
+        "hardly", 
+        "qualify", 
+        "as", 
+        "pluralistic", 
+        "democracies", 
+        "."
+      ]
+    }, 
+    "sentence5": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "On", 
+        "this", 
+        "count", 
+        ",", 
+        "the", 
+        "national", 
+        "security", 
+        "adviser", 
+        "may", 
+        "have", 
+        "erred", 
+        "."
+      ]
+    }, 
+    "sentence6": {
+      "ds8": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "arguing-pos", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [], 
+          "targets_indices": [], 
+          "targets_tokenized": [], 
+          "targets_uncertain": []
+        }, 
+        "att1": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-neg", 
+          "attitudes_uncertain": "no", 
+          "target_ds_overlap": [], 
+          "targets_indices": [], 
+          "targets_tokenized": [], 
+          "targets_uncertain": []
+        }, 
+        "att_num": 2, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "arguing-pos", 
+          "sentiment-neg"
+        ], 
+        "ds_annotation_uncertain": "somewhat-uncertain", 
+        "ds_expression_intensity": "neutral", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          15, 
+          16, 
+          17, 
+          18
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "neutral", 
+        "ds_polarity": "none", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "use", 
+          "of", 
+          "the", 
+          "words"
+        ], 
+        "holder_ds_overlap": [], 
+        "holders_indices": [], 
+        "holders_tokenized": [], 
+        "holders_uncertain": []
+      }, 
+      "dss_ids": [
+        8
+      ], 
+      "sentence_tokenized": [
+        "As", 
+        "for", 
+        "her", 
+        "wording", 
+        "regarding", 
+        "acquisition", 
+        "of", 
+        "weapons", 
+        ",", 
+        "what", 
+        "is", 
+        "particularly", 
+        "noteworthy", 
+        "is", 
+        "the", 
+        "use", 
+        "of", 
+        "the", 
+        "words", 
+        "``", 
+        "aggressively", 
+        "seeking", 
+        "''", 
+        "nuclear", 
+        ",", 
+        "biological", 
+        "or", 
+        "chemical", 
+        "weapons", 
+        "."
+      ]
+    }, 
+    "sentence7": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "In", 
+        "other", 
+        "words", 
+        ",", 
+        "countries", 
+        "which", 
+        "are", 
+        "seeking", 
+        "or", 
+        "developing", 
+        "such", 
+        "arsenal", 
+        "at", 
+        "a", 
+        "slow", 
+        "pace", 
+        "do", 
+        "not", 
+        "seem", 
+        "to", 
+        "come", 
+        "within", 
+        "the", 
+        "scope", 
+        "of", 
+        "the", 
+        "``", 
+        "axis", 
+        "of", 
+        "evil", 
+        "''", 
+        "."
+      ]
+    }, 
+    "sentence8": {
+      "ds9": {
+        "att0": {
+          "attitudes_contrast": "no", 
+          "attitudes_inferred": "no", 
+          "attitudes_repetition": "no", 
+          "attitudes_sarcastic": "no", 
+          "attitudes_types": "sentiment-pos", 
+          "attitudes_uncertain": "somewhat-uncertain", 
+          "target_ds_overlap": [
+            false
+          ], 
+          "targets_indices": [
+            [
+              11, 
+              12, 
+              13, 
+              14, 
+              15, 
+              16
+            ]
+          ], 
+          "targets_tokenized": [
+            [
+              "the", 
+              "acquisition", 
+              "of", 
+              "mass", 
+              "destruction", 
+              "weapons"
+            ]
+          ], 
+          "targets_uncertain": [
+            "no"
+          ]
+        }, 
+        "att_num": 1, 
+        "attitude_link_exists": true, 
+        "attitudes": [
+          "sentiment-pos"
+        ], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          9, 
+          10
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "are", 
+          "contemplating"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            3, 
+            4, 
+            5, 
+            6, 
+            7
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "more", 
+            "than", 
+            "a", 
+            "dozen", 
+            "countries"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        9
+      ], 
+      "sentence_tokenized": [
+        "One", 
+        "can", 
+        "name", 
+        "more", 
+        "than", 
+        "a", 
+        "dozen", 
+        "countries", 
+        "which", 
+        "are", 
+        "contemplating", 
+        "the", 
+        "acquisition", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "weapons", 
+        "at", 
+        "one", 
+        "speed", 
+        "or", 
+        "another", 
+        "."
+      ]
+    }, 
+    "sentence9": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "All", 
+        "other", 
+        "countries", 
+        "which", 
+        "are", 
+        "seemingly", 
+        "refraining", 
+        "from", 
+        "acquiring", 
+        "such", 
+        "weapons", 
+        "are", 
+        "doing", 
+        "so", 
+        "not", 
+        "so", 
+        "much", 
+        "to", 
+        "escape", 
+        "being", 
+        "branded", 
+        "as", 
+        "``", 
+        "evil", 
+        "''", 
+        "but", 
+        "rather", 
+        "because", 
+        "they", 
+        "have", 
+        "neither", 
+        "the", 
+        "knowledge", 
+        "nor", 
+        "the", 
+        "money", 
+        "to", 
+        "join", 
+        "the", 
+        "``", 
+        "nuclear", 
+        "club", 
+        "''", 
+        "."
+      ]
+    }, 
+    "sentences_num": 18
+  }, 
+  "document1": {
+    "document_path": "database.mpqa.2.0/docs/20020320/11.52.35-10118", 
+    "sentence0": {
+      "ds12": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "somewhat-uncertain", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          28, 
+          29
+        ], 
+        "ds_insubstantial": "c1", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "criteria", 
+          "set"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            31, 
+            32, 
+            33
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "the", 
+            "United", 
+            "States"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds17": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": true, 
+        "ds_indices": [
+          6, 
+          7, 
+          8
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "to", 
+          "announce", 
+          "clearly"
+        ], 
+        "holder_ds_overlap": [], 
+        "holders_indices": [], 
+        "holders_tokenized": [], 
+        "holders_uncertain": []
+      }, 
+      "dss_ids": [
+        12, 
+        17
+      ], 
+      "sentence_tokenized": [
+        "It", 
+        "has", 
+        "now", 
+        "become", 
+        "our", 
+        "right", 
+        "to", 
+        "announce", 
+        "clearly", 
+        "that", 
+        "the", 
+        "United", 
+        "States", 
+        "had", 
+        "become", 
+        "one", 
+        "of", 
+        "the", 
+        "sides", 
+        "of", 
+        "the", 
+        "axis", 
+        "of", 
+        "evil", 
+        "according", 
+        "to", 
+        "the", 
+        "same", 
+        "criteria", 
+        "set", 
+        "by", 
+        "the", 
+        "United", 
+        "States", 
+        "itself", 
+        ",", 
+        "and", 
+        "declared", 
+        "by", 
+        "its", 
+        "President", 
+        "George", 
+        "Bush", 
+        "."
+      ]
+    }, 
+    "sentence1": {
+      "ds4": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          12, 
+          13, 
+          14
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "point", 
+          "of", 
+          "view"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            11
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "his"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        4
+      ], 
+      "sentence_tokenized": [
+        "Namely", 
+        "that", 
+        "the", 
+        "countries", 
+        "of", 
+        "the", 
+        "axis", 
+        "of", 
+        "evil", 
+        ",", 
+        "from", 
+        "his", 
+        "point", 
+        "of", 
+        "view", 
+        ",", 
+        "are", 
+        "those", 
+        "that", 
+        "produce", 
+        ",", 
+        "develop", 
+        ",", 
+        "and", 
+        "amass", 
+        "weapons", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "in", 
+        "a", 
+        "way", 
+        "that", 
+        "threatens", 
+        "the", 
+        "security", 
+        "and", 
+        "stability", 
+        "of", 
+        "its", 
+        "neighbors", 
+        ",", 
+        "as", 
+        "well", 
+        "as", 
+        "all", 
+        "the", 
+        "countries", 
+        "in", 
+        "the", 
+        "world", 
+        "."
+      ]
+    }, 
+    "sentence10": {
+      "ds3": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          7
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "advice"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            9, 
+            10
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Haj", 
+            "Zinni"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds9": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          3, 
+          4
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "only", 
+          "wait"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            2
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "we"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        3, 
+        9
+      ], 
+      "sentence_tokenized": [
+        "So", 
+        "now", 
+        "we", 
+        "only", 
+        "wait", 
+        "for", 
+        "the", 
+        "advice", 
+        "of", 
+        "Haj", 
+        "Zinni", 
+        "to", 
+        "obey", 
+        "those", 
+        "in", 
+        "authority", 
+        ",", 
+        "so", 
+        "that", 
+        "we", 
+        "would", 
+        "not", 
+        "become", 
+        "terrorists", 
+        "like", 
+        "Iraq", 
+        ",", 
+        "North", 
+        "Korea", 
+        ",", 
+        "and", 
+        "Iran", 
+        "!"
+      ]
+    }, 
+    "sentence2": {
+      "ds5": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "neutral", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          10, 
+          11, 
+          12, 
+          13, 
+          14, 
+          15, 
+          16
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "neutral", 
+        "ds_polarity": "none", 
+        "ds_subjective_uncertain": "somewhat-uncertain", 
+        "ds_tokenized": [
+          "the", 
+          "report", 
+          "by", 
+          "the", 
+          "Pentagon", 
+          "that", 
+          "listed"
+        ], 
+        "holder_ds_overlap": [
+          true
+        ], 
+        "holders_indices": [
+          [
+            13, 
+            14
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "the", 
+            "Pentagon"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        5
+      ], 
+      "sentence_tokenized": [
+        "Thus", 
+        ",", 
+        "after", 
+        "the", 
+        "US", 
+        "mass", 
+        "media", 
+        "and", 
+        "newspapers", 
+        "revealed", 
+        "the", 
+        "report", 
+        "by", 
+        "the", 
+        "Pentagon", 
+        "that", 
+        "listed", 
+        "seven", 
+        "countries", 
+        "to", 
+        "be", 
+        "attacked", 
+        "with", 
+        "US", 
+        "atomic", 
+        "weapons", 
+        "in", 
+        "case", 
+        "US", 
+        "national", 
+        "security", 
+        "was", 
+        "threatened", 
+        ",", 
+        "it", 
+        "became", 
+        "clear", 
+        "that", 
+        "the", 
+        "United", 
+        "States", 
+        "develops", 
+        "and", 
+        "produces", 
+        "weapons", 
+        "of", 
+        "mass", 
+        "destruction", 
+        "to", 
+        "threaten", 
+        "the", 
+        "stability", 
+        "and", 
+        "security", 
+        "of", 
+        "the", 
+        "world", 
+        ",", 
+        "and", 
+        "that", 
+        "it", 
+        "violates", 
+        "the", 
+        "United", 
+        "Nations", 
+        "Charter", 
+        "attacking", 
+        "independent", 
+        "and", 
+        "sovereign", 
+        "nations", 
+        "."
+      ]
+    }, 
+    "sentence3": {
+      "ds10": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          41
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "considers"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            34
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "it"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds2": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          35, 
+          36
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "completely", 
+          "supports"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            34
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "it"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds8": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          39
+        ], 
+        "ds_insubstantial": "c1", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "stance"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            37, 
+            38
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "the", 
+            "US"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        2, 
+        8, 
+        10
+      ], 
+      "sentence_tokenized": [
+        "Of", 
+        "course", 
+        "the", 
+        "second", 
+        "side", 
+        "in", 
+        "the", 
+        "US", 
+        "axis", 
+        "is", 
+        "Israel", 
+        ",", 
+        "and", 
+        "definitely", 
+        "the", 
+        "third", 
+        "side", 
+        "will", 
+        "go", 
+        "to", 
+        "no", 
+        "one", 
+        "but", 
+        "Britain", 
+        ",", 
+        "as", 
+        "it", 
+        "conforms", 
+        "to", 
+        "the", 
+        "same", 
+        "criteria", 
+        "and", 
+        "because", 
+        "it", 
+        "completely", 
+        "supports", 
+        "the", 
+        "US", 
+        "stance", 
+        "and", 
+        "considers", 
+        "it", 
+        "the", 
+        "absolute", 
+        "right", 
+        "in", 
+        "all", 
+        "cases", 
+        "."
+      ]
+    }, 
+    "sentence4": {
+      "ds11": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          11
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "cooperate"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            10
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "they"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds6": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          26, 
+          27, 
+          28, 
+          29, 
+          30, 
+          31
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "supports", 
+          "it", 
+          "with", 
+          "words", 
+          "and", 
+          "deeds"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            21
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "each"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds7": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "somewhat-uncertain", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          22
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "defends"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            21
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "each"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        6, 
+        7, 
+        11
+      ], 
+      "sentence_tokenized": [
+        "The", 
+        "countries", 
+        "of", 
+        "the", 
+        "US", 
+        "axis", 
+        "are", 
+        "similar", 
+        ",", 
+        "for", 
+        "they", 
+        "cooperate", 
+        ",", 
+        "are", 
+        "joined", 
+        "by", 
+        "a", 
+        "strategic", 
+        "bond", 
+        ",", 
+        "and", 
+        "each", 
+        "defends", 
+        "the", 
+        "other", 
+        "and", 
+        "supports", 
+        "it", 
+        "with", 
+        "words", 
+        "and", 
+        "deeds", 
+        "."
+      ]
+    }, 
+    "sentence5": {
+      "ds0": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          18, 
+          19
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "always", 
+          "defends"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            17
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Washington"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds14": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          27, 
+          28
+        ], 
+        "ds_insubstantial": "c1", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "the", 
+          "stances"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            30, 
+            31
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "both", 
+            "countries"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds18": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          25, 
+          26
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "always", 
+          "justifies"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            24
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Britain"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        0, 
+        14, 
+        18
+      ], 
+      "sentence_tokenized": [
+        "We", 
+        "can", 
+        "review", 
+        ",", 
+        "for", 
+        "example", 
+        ",", 
+        "the", 
+        "voting", 
+        "results", 
+        "in", 
+        "the", 
+        "Security", 
+        "Council", 
+        "to", 
+        "see", 
+        "how", 
+        "Washington", 
+        "always", 
+        "defends", 
+        "Israel", 
+        ",", 
+        "then", 
+        "how", 
+        "Britain", 
+        "always", 
+        "justifies", 
+        "the", 
+        "stances", 
+        "by", 
+        "both", 
+        "countries", 
+        "in", 
+        "admirable", 
+        "harmony", 
+        "."
+      ]
+    }, 
+    "sentence6": {
+      "ds19": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          5, 
+          6
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "endeavors", 
+          "hard"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            2, 
+            3, 
+            4
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "the", 
+            "United", 
+            "States"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        19
+      ], 
+      "sentence_tokenized": [
+        "Therefore", 
+        ",", 
+        "the", 
+        "United", 
+        "States", 
+        "endeavors", 
+        "hard", 
+        "to", 
+        "save", 
+        "Israel", 
+        "from", 
+        "the", 
+        "serious", 
+        "crisis", 
+        "that", 
+        "Sharon", 
+        "has", 
+        "put", 
+        "himself", 
+        "into", 
+        "."
+      ]
+    }, 
+    "sentence7": {
+      "ds16": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "medium", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          65
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "medium", 
+        "ds_polarity": "uncertain-positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "coveted"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            68
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "mayor"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        16
+      ], 
+      "sentence_tokenized": [
+        "Thus", 
+        "roles", 
+        "were", 
+        "distributed", 
+        "specifically", 
+        "and", 
+        "clearly", 
+        ",", 
+        "and", 
+        "each", 
+        "role", 
+        "was", 
+        "drawn", 
+        "accurately", 
+        "and", 
+        "with", 
+        "care", 
+        ",", 
+        "exactly", 
+        "as", 
+        "was", 
+        "the", 
+        "case", 
+        "in", 
+        "the", 
+        "great", 
+        "movie", 
+        "``", 
+        "The", 
+        "Second", 
+        "Wife", 
+        "''", 
+        "between", 
+        "the", 
+        "tyrannical", 
+        "mayor", 
+        "with", 
+        "power", 
+        ",", 
+        "Abu-al-Ila", 
+        ",", 
+        "the", 
+        "simple", 
+        "peasant", 
+        "who", 
+        "owns", 
+        "nothing", 
+        "but", 
+        "the", 
+        "clothes", 
+        "on", 
+        "his", 
+        "back", 
+        "and", 
+        "a", 
+        "gang", 
+        "of", 
+        "children", 
+        ",", 
+        "and", 
+        "his", 
+        "wife", 
+        ",", 
+        "who", 
+        "was", 
+        "coveted", 
+        "by", 
+        "the", 
+        "mayor", 
+        "."
+      ]
+    }, 
+    "sentence8": {
+      "dss_ids": [], 
+      "sentence_tokenized": [
+        "Immediately", 
+        "a", 
+        "neutral", 
+        "intermediate", 
+        "appears", 
+        ",", 
+        "represented", 
+        "in", 
+        "the", 
+        "fake", 
+        "imposter", 
+        "Shaykh", 
+        ",", 
+        "who", 
+        "is", 
+        "the", 
+        "friend", 
+        "of", 
+        "the", 
+        "mayor", 
+        "in", 
+        "the", 
+        "axis", 
+        "of", 
+        "evil", 
+        "."
+      ]
+    }, 
+    "sentence9": {
+      "ds1": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          37
+        ], 
+        "ds_insubstantial": "c2", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "accept"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            31
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "Palestinian"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds13": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          27
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "positive", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "advises"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            19, 
+            20, 
+            21
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "the", 
+            "``", 
+            "US"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "ds15": {
+        "att_num": 0, 
+        "attitude_link_exists": false, 
+        "attitudes": [], 
+        "ds_annotation_uncertain": "none", 
+        "ds_expression_intensity": "low", 
+        "ds_implicit": false, 
+        "ds_indices": [
+          60, 
+          61, 
+          62, 
+          63, 
+          64
+        ], 
+        "ds_insubstantial": "none", 
+        "ds_intensity": "low", 
+        "ds_polarity": "neutral", 
+        "ds_subjective_uncertain": "none", 
+        "ds_tokenized": [
+          "in", 
+          "the", 
+          "eyes", 
+          "of", 
+          "the"
+        ], 
+        "holder_ds_overlap": [
+          false
+        ], 
+        "holders_indices": [
+          [
+            64, 
+            65
+          ]
+        ], 
+        "holders_tokenized": [
+          [
+            "the", 
+            "authorities"
+          ]
+        ], 
+        "holders_uncertain": [
+          "no"
+        ]
+      }, 
+      "dss_ids": [
+        1, 
+        13, 
+        15
+      ], 
+      "sentence_tokenized": [
+        "Then", 
+        "you", 
+        "find", 
+        "a", 
+        "dramatic", 
+        "portrayal", 
+        "of", 
+        "the", 
+        "reversed", 
+        "situation", 
+        "in", 
+        "which", 
+        "the", 
+        "Shaykh", 
+        ",", 
+        "or", 
+        "in", 
+        "this", 
+        "case", 
+        "the", 
+        "``", 
+        "US", 
+        ",", 
+        "''", 
+        "Anthony", 
+        "Zinni", 
+        ",", 
+        "advises", 
+        "Abu-al-Ila", 
+        ",", 
+        "``", 
+        "Palestinian", 
+        ",", 
+        "''", 
+        "to", 
+        "bow", 
+        "and", 
+        "accept", 
+        "the", 
+        "mayor", 
+        "'s", 
+        ",", 
+        "``", 
+        "Israel", 
+        "'s", 
+        ",", 
+        "''", 
+        "demands", 
+        ",", 
+        "or", 
+        "else", 
+        "he", 
+        "would", 
+        "be", 
+        "convicted", 
+        "of", 
+        "possessing", 
+        "weapons", 
+        "of", 
+        "destruction", 
+        "in", 
+        "the", 
+        "eyes", 
+        "of", 
+        "the", 
+        "authorities", 
+        "."
+      ]
+    }, 
+    "sentences_num": 11
+  }, 
+  "documents_num": 2
+}
