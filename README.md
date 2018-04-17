@@ -14,8 +14,13 @@ Ana Marasovic and Anette Frank (2018): [SRL4ORL: Improving Opinion Role Labeling
 
 ## Data
 
+### MPQA
+
 Download [MPQA 2.0 corpus](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/mpqa_corpus_2_0/) and check ```mpqa2-pytools``` for example usage.
 
+### Document splits for 10-fold and 4-fold CV
+
+Splits can be found in the ```datasplit``` folder.
 
 ## How to train models?
 
