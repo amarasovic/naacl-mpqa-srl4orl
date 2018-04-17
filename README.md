@@ -1,5 +1,5 @@
 # SRL4ORL: Improving Opinion Role Labeling Using Multi-Task Learning With Semantic Role Labeling
-Address the problem of scarcity of annotated training data for labeling of opinion holders and targets (ORL) using multi-task learning (MTL) with Semantic Role Labeling (SRL)
+This repository contains code for reproducing experiments done in:
 
 Ana Marasovic and Anette Frank (2018): [SRL4ORL: Improving Opinion Role Labeling Using Multi-Task Learning With Semantic Role Labeling](https://arxiv.org/abs/1711.00768). In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT). New Orleans, USA.
 
