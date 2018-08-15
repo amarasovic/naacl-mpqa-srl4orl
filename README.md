@@ -14,6 +14,7 @@ Ana Marasovic and Anette Frank (2018): [SRL4ORL: Improving Opinion Role Labeling
 
 ## Data
 
+### ORL
 
 Download [MPQA 2.0 corpus](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/mpqa_corpus_2_0/).
 
@@ -21,6 +22,10 @@ Check ```mpqa2-pytools``` for example usage.
 
 
 Splits can be found in the ```datasplit``` folder.
+
+### SRL 
+
+The data is provided by: [CoNLL-2005 Shared Task](http://www.lsi.upc.edu/~srlconll/soft.html), but the original words are from the Penn Treebank dataset, which is not publicly available.
 
 ## How to train models?
 
