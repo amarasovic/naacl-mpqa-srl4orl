@@ -38,7 +38,7 @@ python main.py --adv_coef 0.1 --model asp --exp_setup_id prior --n_layers_orl 3 
 
 ## Reference
 
-If you make use of the contents of this repository, please cite [the following paper](https://arxiv.org/abs/1711.00768):
+If you make use of the contents of this repository, please cite [the following paper](http://aclweb.org/anthology/N18-1054):
 
 ```
 @inproceedings{marasovicfrank:srl4orl,
